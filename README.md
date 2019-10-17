@@ -1,1 +1,1 @@
-# k8s
+# Kubernetes learning sample
